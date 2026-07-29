@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,arch" />
   </a>
 </p>
 
