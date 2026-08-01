@@ -6,7 +6,6 @@
 <p align="center">- 🔭 Currently Studying Programming</p>
 <p align="center">- ✅ Complete: Typescript, Javascript, Html, Css, C#, Arduino, Docker, SwiftUI, React, Java, Nodejs, Python, Sql, Kotlin, Unity, Flutter and Supabase</p>
 <p align="center">- 🖥️ Distributions I Program: Windows, MacOS, Ubuntu and Kali</p>
-<p align="center">- 📫 Contact-me On Discord: xskotaka_</p>
 
 ##
 
@@ -23,10 +22,3 @@
     <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,arch" />
   </a>
 </p>
-
-##
-
-<div align="center">
-  <a href = "https://www.discordapp.com/users/761582389172371467"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/felipe-de-castro-292696259/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
